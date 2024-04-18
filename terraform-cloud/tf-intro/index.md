@@ -87,8 +87,6 @@ class: compact
   * Variables
   * Outputs
   * Interpolations
-  * Provisioners -- To be removed.
-  * Provider authentication
   * Terraform CLI
 
 ---
@@ -396,16 +394,6 @@ Each team can contribute or consume Terraform code according to their needs.
 
 ???
 **When you store all your terraform code in git repos, you unlock some extra features like user collaboration. Terraform Cloud helps bring these teams closer in a more productive way.**
-
----
-name: vcs-driven-workflow
-# Automated Test Pipelines
-.center[![:scale 60%](../images/git_workflow_tests.png)]
-
-When your Terraform code is stored in a version control system, you unlock extra features like pull requests, code reviews and testing. Here's an example showing some tests that run on our training lab repo.
-
-???
-**Storing your code in VCS also enables you to build automated test pipelines and conduct code reviews to approve any pending changes. Multiple users can build and contribute changes to the same infrastructure as code base without stepping on one another's toes.**
 
 ---
 name: everything-is-recorded
