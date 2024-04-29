@@ -210,7 +210,7 @@ locals {
 ---
 name: next-steps
 # Next Steps?
-.center[![:scale 40%](../images/next_steps_labs.png)]
+.center[![:scale 50%](../images/next_steps_labs.png)]
 
  - [Westpac HashiCorp page](https://experience.hashicorp.com/westpac?token=0b01f7fdf0) 
  - [HashiCorp Developer](https://developer.hashicorp.com/terraform)
