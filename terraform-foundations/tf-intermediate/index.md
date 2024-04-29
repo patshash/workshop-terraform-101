@@ -212,10 +212,8 @@ name: next-steps
 # Next Steps?
 .center[![:scale 30%](../images/next_steps_labs.png)]
 
-If you are interested in learning more. You can start on the [Westpac HashiCorp page](https://experience.hashicorp.com/westpac?token=0b01f7fdf0) to access Online Lab environments with Guided Tutorials and further reading. 
-
-Also check out [HashiCorp Developer](https://developer.hashicorp.com/terraform) for more content!
-
+ [Westpac HashiCorp page](https://experience.hashicorp.com/westpac?token=0b01f7fdf0) 
+ [HashiCorp Developer](https://developer.hashicorp.com/terraform)
 ???
 
 ---
